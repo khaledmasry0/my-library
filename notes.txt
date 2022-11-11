@@ -1,0 +1,61 @@
+sass --watch "المسار"    //  ctrl+c to stop watching
+
+npm install .......        //install first
+
+....................................................................................................................
+....................................................................................................................
+
+pug --help       // to see the orders of the library...
+...............................................................
+npm install pug-cli -g
+
+pug --watch "المسار" -P    //  ctrl+c to stop watching
+
+...................................................................................................................
+...................................................................................................................
+
+npm install gulp@3.9.1 --save
+...............................................................
+
+gulp
+npm install gulp -g     // to install glopal
+npm install gulp@^4.0.0   // update gulp
+
+                               // inside the filder
+npm init .......name masry ........desc..my gulp project ......key masry    // make the json file
+
+	....................................................................................
+
+npm install --save-dev gulp      //to install gulp in my gulp folder         //الاضافة الرئسيسة 
+
+npm install --save-dev gulp-concat   // to install gulp-concat in my gulp folder  ................CONCAT
+
+npm install --save-dev gulp-autoprefixer     //to install auto-prefix css in my gulp folder  .....PREFIX
+
+npm install --save-dev gulp-sass      //to install gulp-SASS in my gulp folder   .................SASS
+npm install --save-dev sass      //to install gulp-SASS in my gulp folder        .................SASS
+
+npm install --save-dev gulp-pug      //to install gulp-pug in my gulp folder     .................PUGJS
+
+npm install --save satatic-server     // to install satatic-server        ........................STATIC-SERVER
+npm install --save-dev livereload     // to install live-server           ........................LIVE-RELOAD
+
+ npm install --save-dev gulp-sourcemaps  // to install gulp-sourcemaps
+
+ npm install --save-dev gulp-uglify     //  to install minified js        .........................mimfy js files
+
+npm install --save-dev gulp-notify     //  to install notification        ......................... notification
+
+npm install --save-dev gulp-zip     //  to install zip                     ........................     zip
+
+ npm install --save-dev vinyl-ftp   // hosting
+
+...............................................................................................................................
+...............................................................................................................................
+
+                                                       Jest
+
+npm init ................
+npm install jest --save-dev       // to install package
+npm test 
+ 
