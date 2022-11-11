@@ -370,3 +370,26 @@ p {
     rgba(217, 8, 170, 1) 57%
   );
 }
+/* #####################  SCroll bar ##################### */
+
+
+*::-webkit-scrollbar {
+    background-color: white;
+    width: 5px;
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: #E9EDF1;
+    border-radius: 8px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    -ms-border-radius: 8px;
+    -o-border-radius: 8px;
+}
+
+body::-webkit-scrollbar {
+    width: 13px;
+}
+body::-webkit-scrollbar-thumb {
+    background-color: #0094FF;
+}
